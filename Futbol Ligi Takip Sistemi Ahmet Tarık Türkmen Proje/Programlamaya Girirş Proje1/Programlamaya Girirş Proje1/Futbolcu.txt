@@ -1,0 +1,51 @@
+387001               Ahmet             Turkmen                3801              Forvet              10          10.02.1989                  16
+387002               Demir              Yuksel                3802            SolKanat              15          09.04.1988                  16
+387003            Abdullah               Demir                3801              Kaleci              17          10.08.1995                  16
+387004                Acun               Sahin                3802              Stoper              20          21.03.1997                  16
+387005                 Ali               Aydin                3805              Stoper              11          15.05.1995                  16
+387006               Burak               Cilek                3806            OrtaSaha              10          13.06.1999                  16
+387007               Yusuf               Yavuz                3807            OrtaSaha              10          14.03.1987                  16
+387008            Muhammet             Ozyasar                3808            SagKanat              11          13.06.1998                  16
+387009             Alperen             Baltaci                3809            OnLibero              13          11.07.1979                  16
+387010               Nihat             Turkmen                3810              SagBek              14          01.09.1989                  16
+387011               Erdem                Acar                3811              SolBek              10          03.05.1995                  16
+387012            Barbaros               Topal                3812              Forvet              15          18.08.1988                  34
+387013            Bilgehan               Guler                3813            SolKanat              19          13.12.1989                  34
+387014              Gorkem               Sonuc                3814              Kaleci              18          29.09.1991                  34
+387015               Cemil                  Oz                3815              Stoper              17          13.06.1996                  34
+387016              Atakan           Yerlikaya                3816              Stoper              09          12.10.1988                  34
+387017               Aktug               Aksoy                3817            OrtaSaha              15          02.02.1992                  34
+387018               Birol              Caymaz                3818            OrtaSaha              11          11.06.1991                  34
+387019               Altay               Ersoy                3819            SagKanat              08          17.08.1999                  34
+387020                Dora               Damla                3820            OnLibero              11          24.11.1994                  34
+387021                Dogu            Demirkol                3821              SagBek              16          13.06.1982                  34
+387022             Bahadir            Kandemir                3822              SolBek              11          23.04.1992                  34
+387023            Bedirhan             Karatas                3823              Forvet              09          15.05.1986                  61
+387024              Mahmut               Kirca                3824            SolKanat              08          10.12.1990                  61
+387025            Sadullah              Koksal                3825              Kaleci              11          19.06.1988                  61
+387026               Talha               Oztas                3826              Stoper              12          12.02.1999                  61
+387027               Tamer            Yesildag                3827              Stoper              15          02.01.1981                  61
+387028                Ulas                Avci                3828            OrtaSaha              09          11.02.1988                  61
+387029                Umit               Peker                3829            OrtaSaha              10          09.12.1990                  61
+387030               Hasan               Yagız                3830            SagKanat              16          13.06.1991                  61
+387031                Veli             Sarigul                3831            OnLibero              20          17.01.1997                  61
+387032               Yasin               Tosun                3832              SagBek              11          11.03.1987                  61
+387033               Zafer            Yildiran                3833              SolBek              08          23.12.1998                  61
+387034                Tunc           Yerlikaya                3834              Forvet              16          29.03.1994                  54
+387035               Kerem               Unsal                3835            SolKanat              11          30.01.1992                  54
+387036               Meric                Teke                3836              Kaleci              18          13.06.1983                  54
+387037            Muharrem               Maral                3837              Stoper              12          11.07.1988                  54
+387038               Nazim               Soyak                3838              Stoper              16          15.03.1997                  54
+387039              Necati         Sungurtekin                3839            OrtaSaha              13          19.05.1989                  54
+387040              Niyazi              Saglam                3840            OrtaSaha              17          05.10.1980                  54
+387041               Evren               Bahar                3841            SagKanat              06          13.12.1990                  54
+387042               Cagri               Ozkul                3842            OnLibero              19          09.06.1995                  54
+387043                Eyup               Ozdag                3843              SagBek              18          26.03.1993                  54
+387044                Esat                Ozel                3844              SolBek              14          29.02.1999                  54
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+16            Bursaspor              Bursa         05163535345                   0                 Ali                   0
+54          Sakaryaspor            Sakarya         05543863312                   0              Cuneyt                   0
+34          Galatasaray           Istanbul         05343524315                   0            Abdullah                   0
+61          Trabzonspor            Trabzon         05613855312                   0               Deniz                   0
